@@ -27,3 +27,5 @@
 5. **Select**
    - Users should be able to run an SQL `SELECT` command.
    - The initial implementation should support a `WHERE` clause.
+
+## Design
